@@ -23,7 +23,10 @@
                     <string>1.0</string>
                     <key>kind</key>
                     <string>software</string>
-                    
+                    <key>subtitle</key>
+                    <string>vtoone_app</string>
+                    <key>title</key>
+                    <string>vtoone_app</string>
                 </dict>
             </dict>
         </array>
